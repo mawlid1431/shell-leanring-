@@ -1,0 +1,2 @@
+ chmod -w file name ( removing permission only you can read )
+ chmod +w file name (alow the user to read and write the file or dir)
